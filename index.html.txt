@@ -1,0 +1,7 @@
+<nav>
+ <ul>
+<li><a href="3=#home">Accueil</a></li>
+<li><a href="3=#about">A propos</a></li>
+<li><a href="3=#contact">contact</a></li>
+</ul>
+</nav>
