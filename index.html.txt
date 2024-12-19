@@ -10,3 +10,8 @@
 <footer>
 <p> 2024 mon site web </p>
 </footer>
+
+
+<footer>
+<p> 2024 tous droits reserves </p>
+</footer>
